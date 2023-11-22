@@ -44,7 +44,5 @@ This is the DB diagram where contains all the tables and attributes implemented 
 
 ## Author
 
-- Jorge Ortiz.
-- ortiz.mata.jorge@gmail.com
-- yorch.academy@gmail.com
-- LinkedIn: https://www.linkedin.com/in/jorge-ortiz-ab1b18183/
+- Felipe Carrasco
+- felipecarrascolopez@gmail.com
