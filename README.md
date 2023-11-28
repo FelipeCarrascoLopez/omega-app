@@ -5,8 +5,6 @@ They also can leave their own comments and images ande files on each article. Im
 Microsoft services such as buckets.
 You can visit this web application by clicking on the next below to see more about it.
 
-![](./app/assets/images/01.png)
-
 ![](./app/assets/images/02.png)
 
 ## Link
