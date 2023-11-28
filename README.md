@@ -1,31 +1,25 @@
 # Omega Blog - Ruby on Rails, Docker and Microsoft Azure.
 
-This is the Omega Blog App, where users can create articles and categories.
-They also can leave their own comments and images ande files on each article. Images and files are been saved using
-Microsoft services such as buckets.
-You can visit this web application by clicking on the next below to see more about it.
+Esta es la aplicación Omega Blog, donde los usuarios pueden crear artículos y categorías.
+También pueden dejar sus propios comentarios e imágenes y archivos sobre cada artículo. Las imágenes y los archivos se guardan usando
+Servicios de Microsoft como depósitos.
+Puede visitar esta aplicación web haciendo clic en el siguiente a continuación para ver más al respecto.
 
 
 ## Link
-In this section, you will find link to visit this web application.
-https://omega-blog-container.whitegrass-3bec7435.centralus.azurecontainerapps.io/
+En esta sección encontrará un enlace para visitar esta aplicación web.
+[https://omega-blog-container.whitegrass-3bec7435.centralus.azurecontainerapps.io/](https://omega-blog-container.nicetree-85345942.australiaeast.azurecontainerapps.io/login)
 
 ## 3° Services.
 
-- Sendgrid.
-
-As a user, I need to create my own account in this web application. After create my account, an email will be sent to my email account to validate my information.
-For sending email in production, the Omega Blog is useing Sendgrid.
-To get more information about Sengrid, you can click on the next link: https://sendgrid.com/
-
 - Microsoft Azure.
 
-Images and files are saved within Microsoft Azure services. A bucket was created and confiured to make this possible.
-You can click on the next links to get more information about Bucket's configuration and Active Storage. Besides, a docker container has been created to access to this app. https://azure.microsoft.com/es-es/
+Las imágenes y los archivos se guardan dentro de los servicios de Microsoft Azure. Se creó y configuró un depósito para que esto sea posible.
+Puede hacer clic en los siguientes enlaces para obtener más información sobre la configuración de Bucket y Active Storage. Además, se ha creado un contenedor acoplable para acceder a esta aplicación. https://azure.microsoft.com/es-es/
 
 ## Database diagram.
 
-This is the DB diagram where contains all the tables and attributes implemented in this web application
+Este es el diagrama de base de datos donde contiene todas las tablas y atributos implementados en esta aplicación web.
 
 ![](./app/assets/images/03.png)
 
